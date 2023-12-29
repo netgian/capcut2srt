@@ -15,7 +15,6 @@ def write(data, filename):
 
 def ms_to_srt(time_in_ms):
     convert_ms = int(time_in_ms / 1000)
-
     ms = convert_ms % 1000
     total_seconds = (convert_ms - ms) / 1000
     seconds = int(total_seconds % 60)
