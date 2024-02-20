@@ -9,7 +9,7 @@ To utilize **capcut2srt**, follow these simple steps:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/capcut2srt.git
+    git clone https://github.com/netgian/capcut2srt.git
     ```
 
 2. **Navigate to the Directory**:
@@ -18,13 +18,7 @@ To utilize **capcut2srt**, follow these simple steps:
     cd capcut2srt
     ```
 
-3. **Install Dependencies**: Ensure all necessary dependencies are installed by executing:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Run the Script**: Execute the Python script to initiate the extraction process.
+3. **Run the Script**: Execute the Python script to initiate the extraction process.
 
     ```bash
     python capcut2srt.py
