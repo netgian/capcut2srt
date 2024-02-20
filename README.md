@@ -33,7 +33,3 @@ To utilize **capcut2srt**, follow these simple steps:
 ## Contributions
 
 Contributions to enhance the functionality, performance, or documentation of **capcut2srt** are welcome. If you have suggestions for improvements or encounter any issues, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
