@@ -37,7 +37,3 @@ Contributions to enhance the functionality, performance, or documentation of **c
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content as needed, adding more details or sections depending on your preferences and the complexity of your tool.
